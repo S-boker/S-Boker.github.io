@@ -1,6 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shohum Boker",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"license": "SSA",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
