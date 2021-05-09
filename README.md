@@ -1,6 +1,6 @@
 # S-Boker.github.io
 <br>
-<p>From the dashboard you can go into any of the projects here, and from every project you can go back to the dashboard, excpet for the term project because a back to dashboard link would take away from some the UX/UI aspects.</p>
+<p>From the <a href="https://S-Bokergithubio.shohumboker.repl.co">dashboard</a> you can go into any of the projects here, and from every project you can go back to the dashboard, excpet for the term project because a back to dashboard link would take away from some the UX/UI aspects.</p>
 <h2>LikedIn Projects</h2>
 <p>These are all projects from LinkedIn Learning Courses:</p>
 <ul>
